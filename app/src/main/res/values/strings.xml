@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Rik-Root</string>
+    <string name="title">Student Details</string>
+    <string name="bits_id">Enter BITS ID</string>
+    <string name="name">Enter Name</string>
+    <string name="phone_no.">Enter Phone Number</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="modify">Modify</string>
+    <string name="view">View</string>
+    <string name="view_all">View All</string>
+    <string name="show_info">Show Information</string>
+    <string name="additional_options">!! Advanced Options !!</string>
+
+    <string-array name="hostel_array">
+        <item>Select Hostel</item>
+        <item>AK</item>
+        <item>BG</item>
+        <item>BD</item>
+        <item>CVR</item>
+        <item>GN</item>
+        <item>KR</item>
+        <item>ML</item>
+        <item>ML Ext.</item>
+        <item>MB</item>
+        <item>RM</item>
+        <item>RP</item>
+        <item>SK</item>
+        <item>SR</item>
+        <item>VK</item>
+        <item>VY</item>
+        <item>Day Scholars</item>
+    </string-array>
+
+    <string-array name="one_dept_array">
+        <item>First Preference</item>
+        <item>Comp. and Lit. Prog.</item>
+        <item>Eng. and Personality Dev.</item>
+        <item>Health and Public Awareness</item>
+        <item>Parisodh</item>
+        <item>Publicity</item>
+        <item>School</item>
+        <item>Umang</item>
+
+
+    </string-array>
+
+    <string-array name="two_dept_array">
+        <item>Second Preference</item>
+        <item>Comp. and Lit. Prog.</item>
+        <item>Eng. and Personality Dev.</item>
+        <item>Health and Public Awareness</item>
+        <item>Parisodh</item>
+        <item>Publicity</item>
+        <item>School</item>
+        <item>Umang</item>
+
+    </string-array>
+
+    <string-array name="three_dept_array">
+        <item>Third Preference</item>
+        <item>Comp. and Lit. Prog.</item>
+        <item>Eng. and Personality Dev.</item>
+        <item>Health and Public Awareness</item>
+        <item>Parisodh</item>
+        <item>Publicity</item>
+        <item>School</item>
+        <item>Umang</item>
+
+    </string-array>
+</resources>
